@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CardioIA</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <h1>CardioIA</h1>
+      <p>Assistente Cardiológico Conversacional</p>
+    </header>
+
+    <main class="chat-container">
+      <div id="chat-box" class="chat-box">
+        <div class="message bot">
+          <div class="bubble">
+            Olá! Sou o CardioIA. Clique em "Iniciar sessão" para começar.
+          </div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="start-session-btn">Iniciar sessão</button>
+        <button id="reset-btn">Resetar conversa</button>
+      </div>
+
+      <form id="chat-form" class="chat-form">
+        <input
+          type="text"
+          id="message-input"
+          placeholder="Digite sua mensagem..."
+          autocomplete="off"
+          disabled
+        />
+        <button type="submit" id="send-btn" disabled>Enviar</button>
+      </form>
+
+      <div class="status">
+        <span id="status-text">Status: aguardando sessão</span>
+      </div>
+    </main>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
