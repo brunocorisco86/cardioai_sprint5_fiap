@@ -143,7 +143,7 @@ cardioia/
 3. **Relatório e um resumo (PDF)** criados dentro da pasta `docs`: público-alvo, actions modeladas, fluxos principais, limitações e próximos passos.
 4. **Vídeo (≤ 3 minutos)** demonstrando fluxo completo (início de sessão → perguntas → recomendações → reset).
 ```
-URL: 
+URL: https://www.youtube.com/watch?v=quQU3o5YG-U
 ```
 ## Trabalho em Equipe
 
