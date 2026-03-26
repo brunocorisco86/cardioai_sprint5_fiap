@@ -7,7 +7,6 @@
 <br>
 
 ## 👨‍🎓 Integrantes:
-- Ana Ingrid Pires Alves Kolodji (RM559629)
 - Bruno Henrique Nielsen Conter (RM560518)
 - Fabio Santos Cardoso (RM560479)
 - Matheus Augusto Rodrigues Maia (RM560683)
