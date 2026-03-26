@@ -6,10 +6,6 @@
 
 <br>
 
-# CardioAI
-
-## CardioSync
-
 ## 👨‍🎓 Integrantes:
 - Ana Ingrid Pires Alves Kolodji (RM559629)
 - Bruno Henrique Nielsen Conter (RM560518)
