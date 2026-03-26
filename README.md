@@ -11,10 +11,10 @@
 ## CardioSync
 
 ## 👨‍🎓 Integrantes:
-- Alex da Silva Lima (RM559784)
+- Ana Ingrid Pires Alves Kolodji (RM559629)
 - Bruno Henrique Nielsen Conter (RM560518)
 - Fabio Santos Cardoso (RM560479)
-- Ana Ingrid Pires Alves Kolodji (RM559629)
+- Matheus Augusto Rodrigues Maia (RM560683)
 
 ## 👩‍🏫 Professores:
 ### Tutor(a)
